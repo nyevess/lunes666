@@ -1,0 +1,48 @@
+/* *********************************** */
+/* *** ESTILOS GENERALES *** */
+/* *********************************** */
+
+/* Tipografía */
+@font-face {
+    font-family: "";
+    src: url("") format("woof2"),
+         url("") format("woof");
+}
+
+/* Margen general */
+html{
+    padding: 20px;
+}
+
+/* HEADER */
+header{
+    display:flex;
+    justify-content: center;
+    background-color: goldenrod;
+
+}
+
+/* MENÚ Y LOGO */
+nav{
+    width: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: goldenrod;
+}
+a{
+    font-size: 30px;
+}
+
+.logo{
+    border-radius: 15px;
+
+}
+
+/* FOOTER */
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+

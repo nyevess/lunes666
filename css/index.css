@@ -1,0 +1,14 @@
+/* *********************************** */
+/* *** Estilos SOLO para index.html *** */
+/* *********************************** */
+
+.banner{
+
+ width: 100%;
+
+}
+
+
+header, main, p{
+    margin-bottom: 40px;
+}
